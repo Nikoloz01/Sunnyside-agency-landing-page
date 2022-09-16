@@ -339,7 +339,7 @@ footer >p{
 }
 
 
-@media only screen and (max-width: 776px) {
+/* @media only screen and (max-width: 776px) {
   .profiles{
     flex-wrap: wrap;
   }
@@ -376,4 +376,5 @@ footer >p{
   .card-5 p{
     margin-bottom:110px
   }
-}
+  
+} */
